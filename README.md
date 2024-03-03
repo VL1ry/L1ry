@@ -1,5 +1,6 @@
 # Discord verify ip logger
 使い方は考えてください
+買ったやつだからいつ消すかわからない♡
 
 メンバーブーストに使っているトークンですが、1週間で期限が切れます
 https://discord.com/developers/applications
